@@ -19,5 +19,4 @@ Discover your geographic location and explore detailed country information in re
 
 #  
 
-*  Copyright (c) 2025 ReiKama414
 *  MIT License
